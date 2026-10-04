@@ -1,7 +1,7 @@
 ---
-name: Himal Subedi
+name: Simon Mederer
 position: Doctoral Candidate
 group: phdstudents
-photo: missing_avatar.svg
+photo: simon_mederer.jpg
 ---
 

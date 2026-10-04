@@ -1,7 +1,6 @@
 ---
-name: Markus Krahl
+name: Christopher Hinz
 position: Doctoral Candidate
 group: phdstudents
-photo: markus_krahl.jpg
+photo: christopher_hinz.jpg
 ---
-

@@ -1,7 +1,6 @@
 ---
-name: Markus Krahl
+name: Patrick Kirschke
 position: Doctoral Candidate
 group: phdstudents
-photo: markus_krahl.jpg
+photo: missing_avatar.svg
 ---
-

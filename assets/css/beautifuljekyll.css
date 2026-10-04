@@ -562,9 +562,18 @@ footer .footer-custom-content {
 }
 
 @media (min-width: 768px) {
-  .post-preview .post-title {
+  .post-preview .post-title .cross-post-title {
     font-size: 2.25rem;
   }
+}
+
+/* --- Cross post --- */
+
+.post-preview .cross-post-title {
+  font-size: 1.875rem;
+  font-style: italic;
+  margin-top: 0;
+  color: color-mix(in srgb, currentColor 80%, transparent);
 }
 
 /* --- Tags --- */
@@ -1089,4 +1098,34 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+}
+
+/* --- News Box --- */
+
+.news-box {
+  background-color: #f8f8f8;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0.5rem 0 0 0;
+  padding-left: 0;
+}
+
+.news-item {
+  margin: 0.25rem 0;
+}
+
+.news-tag {
+  color: #808080;
+  font-size: 0.85rem;
+}
+
+.news-date {
+  color: #808080;
+  font-size: 0.85rem;
 }
